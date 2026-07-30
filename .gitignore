@@ -2,7 +2,10 @@ __pycache__/
 *.py[cod]
 .venv/
 build/
-dist/
 *.spec
-*.exe
 .wine/
+
+# Ignore build outputs except release binaries
+dist/*
+!dist/Caluo
+!dist/Caluo.exe
