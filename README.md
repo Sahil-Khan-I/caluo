@@ -11,7 +11,7 @@ The tech stck for this project is as follows :
 
                                                    Python the mainn thing !
                                                    The Desktop GUI has been done in Tkinter 
-                                                   Packaging and executable or exe file has been made                                                     by/using Pyinstaller
+                                                   Packaging and executable or exe file has been made by/using Pyinstaller
                                                    Math functions are from math library of python . 
 
                                                    
